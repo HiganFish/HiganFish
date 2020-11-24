@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "<!--\r **HiganFish/HiganFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiganFish/HiganFish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HiganFish/HiganFish/issues"
+  },
+  "homepage": "https://github.com/HiganFish/HiganFish#readme",
+  "dependencies": {
+    "mustache": "^4.0.1",
+    "urllib": "^2.36.1",
+    "xmlreader": "^0.2.3"
+  }
+}
