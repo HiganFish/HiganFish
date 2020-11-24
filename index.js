@@ -10,7 +10,7 @@ let DATA = {
     user: {
         'name': '彼岸鱼',
         'address': '大桧山大楼',
-        'school': '未来道具研究所'
+        'school': '未来ガジェット研究所'
     },
     date: new Date().toUTCString()
 };
