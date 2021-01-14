@@ -5,6 +5,9 @@
 <h3>My latest articles</h3>
 <ul>
     <li>
+      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2021&#x2F;01&#x2F;CPP-cast&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />.*_case</b></a>
+    </li>
+    <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2021&#x2F;01&#x2F;%E5%8A%9B%E6%89%A31.12-N322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />力扣1.12-N322. 零钱兑换</b></a>
     </li>
     <li>
@@ -26,13 +29,10 @@
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2021&#x2F;01&#x2F;%E5%8A%9B%E6%89%A31.7-N17&amp;N19&amp;E21&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />力扣1.7-N17&amp;N19&amp;E21</b></a>
     </li>
     <li>
-      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2021&#x2F;01&#x2F;CPP-Linux&amp;Cpp%E7%BA%BF%E7%A8%8B&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />pthread&amp;thread</b></a>
+      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2021&#x2F;01&#x2F;CPP-pthread&amp;thread&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />pthread&amp;thread</b></a>
     </li>
     <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2021&#x2F;01&#x2F;Linux-shell%E8%84%9A%E6%9C%AC%E7%BC%96%E5%86%99&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />Shell脚本编写</b></a>
-    </li>
-    <li>
-      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2021&#x2F;01&#x2F;%E5%8A%9B%E6%89%A31.2-N654.%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />力扣1.2-N654.最大二叉树</b></a>
     </li>
 </ul>
 
@@ -50,7 +50,7 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Thu, 14 Jan 2021 14:48:13 GMT</p>
+<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Thu, 14 Jan 2021 15:29:21 GMT</p>
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
