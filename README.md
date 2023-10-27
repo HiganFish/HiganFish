@@ -5,6 +5,9 @@
 <h3>My latest articles</h3>
 <ul>
     <li>
+      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;10&#x2F;%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95-UP%E6%9C%88%E8%AE%B0%E5%BD%95&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />UP月记录</b></a>
+    </li>
+    <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;10&#x2F;%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />游戏设计</b></a>
     </li>
     <li>
@@ -31,9 +34,6 @@
     <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;04&#x2F;%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E9%80%9A%E8%AF%86&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />通识</b></a>
     </li>
-    <li>
-      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;03&#x2F;%E6%97%A5%E8%AF%AD-%E4%BA%94%E5%A4%A7%E6%80%81&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />五大态</b></a>
-    </li>
 </ul>
 
 <h3>My GitHub Statistics</h3>
@@ -50,7 +50,7 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Fri, 27 Oct 2023 11:14:18 GMT</p>
+<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Fri, 27 Oct 2023 12:33:37 GMT</p>
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
