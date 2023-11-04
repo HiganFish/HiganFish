@@ -17,10 +17,10 @@
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;10&#x2F;%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />设计模式</b></a>
     </li>
     <li>
-      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;10&#x2F;%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95-UP&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />个人UP</b></a>
+      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;10&#x2F;%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />常用命令</b></a>
     </li>
     <li>
-      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;10&#x2F;%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />常用命令</b></a>
+      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;10&#x2F;%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95-UP&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />个人UP</b></a>
     </li>
     <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;10&#x2F;%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1-%E6%97%B6%E9%97%B4%E8%A7%A6%E5%8F%91%E5%99%A8&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />时间触发器</b></a>
@@ -50,7 +50,7 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Sat, 04 Nov 2023 05:16:21 GMT</p>
+<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Sat, 04 Nov 2023 06:21:32 GMT</p>
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
