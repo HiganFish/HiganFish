@@ -5,6 +5,9 @@
 <h3>My latest articles</h3>
 <ul>
     <li>
+      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;11&#x2F;%E9%A1%B9%E7%9B%AE%E5%88%B6%E4%BD%9C-PrometheusX%E7%81%AB%E7%84%B0%E5%9B%BE&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />如何实现火焰图自由</b></a>
+    </li>
+    <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;11&#x2F;%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%86%99%E5%8D%9A%E5%AE%A2&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />写博客技巧</b></a>
     </li>
     <li>
@@ -31,9 +34,6 @@
     <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;10&#x2F;Linux-ebpf&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />bpf</b></a>
     </li>
-    <li>
-      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;04&#x2F;%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E6%9E%B6%E6%9E%84&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />架构</b></a>
-    </li>
 </ul>
 
 <h3>My GitHub Statistics</h3>
@@ -50,7 +50,7 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Sat, 18 Nov 2023 07:15:12 GMT</p>
+<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Sat, 18 Nov 2023 08:20:55 GMT</p>
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
