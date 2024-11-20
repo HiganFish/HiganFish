@@ -8,6 +8,9 @@
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2024&#x2F;11&#x2F;%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95-Windows%E4%B8%8BUnity%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E6%8E%92%E6%9F%A5&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />Windows下Unity内存泄露排查</b></a>
     </li>
     <li>
+      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2024&#x2F;11&#x2F;%E4%BC%98%E5%8C%96-%E7%BC%96%E8%AF%91%E5%8A%A0%E9%80%9F2&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />CMake项目常见的编译加速方式汇总</b></a>
+    </li>
+    <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2024&#x2F;07&#x2F;CPP-CMAKE&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />CMAKE&amp;Make</b></a>
     </li>
     <li>
@@ -31,9 +34,6 @@
     <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;11&#x2F;%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95-UP%E7%B2%BE%E5%8D%8E%E6%95%B4%E7%90%86%E7%89%88&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />如何更好的添砖加瓦</b></a>
     </li>
-    <li>
-      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;11&#x2F;%E9%A1%B9%E7%9B%AE%E5%88%B6%E4%BD%9C-PrometheusX%E7%81%AB%E7%84%B0%E5%9B%BE&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />如何实现火焰图半自由</b></a>
-    </li>
 </ul>
 
 <h3>My GitHub Statistics</h3>
@@ -50,7 +50,7 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Wed, 20 Nov 2024 02:59:01 GMT</p>
+<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Wed, 20 Nov 2024 03:35:24 GMT</p>
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
