@@ -5,6 +5,9 @@
 <h3>My latest articles</h3>
 <ul>
     <li>
+      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2025&#x2F;11&#x2F;%E4%BA%91-K8S&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />K8S基础概念</b></a>
+    </li>
+    <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2025&#x2F;09&#x2F;NAS-bt&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />BT内网穿透</b></a>
     </li>
     <li>
@@ -31,9 +34,6 @@
     <li>
       <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;12&#x2F;%E4%BC%98%E5%8C%96-%E7%BC%96%E8%AF%91%E5%8A%A0%E9%80%9F&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />编译加速</b></a>
     </li>
-    <li>
-      <a href="http:&#x2F;&#x2F;blog.lsmg.xyz&#x2F;2023&#x2F;12&#x2F;%E4%B8%AA%E4%BA%BA%E8%AE%B0%E5%BD%95-%E6%96%B9%E5%90%91%E9%80%89%E6%8B%A9&#x2F;"><b><img src="https://lsmg-img.oss-cn-beijing.aliyuncs.com/Mine/80px-Future_Gadget_Lab_logo.png" width="20" alt="new" />方向选择</b></a>
-    </li>
 </ul>
 
 <h3>My GitHub Statistics</h3>
@@ -50,7 +50,7 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Mon, 17 Nov 2025 11:23:11 GMT</p>
+<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Mon, 17 Nov 2025 12:54:57 GMT</p>
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/HiganFish/LiveBroadcast?style=flat-square&labelColor=343b41"/>
